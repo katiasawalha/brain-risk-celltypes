@@ -1,7 +1,5 @@
 # Which brain cells carry the genetic risk for brain disorders?
 
-![tests](https://github.com/YOUR_USERNAME/brain-risk-celltypes/actions/workflows/tests.yml/badge.svg)
-
 Genome-wide association studies (GWAS) have linked hundreds of genes to
 schizophrenia, Alzheimer's, Parkinson's, depression and autism. But the brain is
 made of dozens of very different cell types, and a gene list alone doesn't tell
